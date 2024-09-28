@@ -1,7 +1,7 @@
 body {
   font-family: "Arial", sans-serif;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   /*
         Властивість CSS align-items встановлює значення 
         align-self для всіх прямих дочірніх елементів 
